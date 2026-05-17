@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ca.spottedleaf.starlight.mixin.compat.sable",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ServerLevelPlotMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
