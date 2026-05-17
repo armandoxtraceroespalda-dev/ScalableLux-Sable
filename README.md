@@ -1,6 +1,7 @@
 Instructions:
 Build and move the jar to your mods folder.
 Open your Sable jar file with winrar or whatever, go to: META-INF/neoforge.mods.toml and open this file with txt editor. 
+
 Delete:
 [[dependencies.sable]]
 modId = "scalablelux"
