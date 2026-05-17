@@ -1,4 +1,4 @@
-Starlight (Fabric)
+Starlight (Neoforge)
 ==
 Fabric mod for completely rewriting the vanilla light engine.
 
